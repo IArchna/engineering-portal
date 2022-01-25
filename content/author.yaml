@@ -2,6 +2,10 @@
   bio: LoginRadius is a leading provider of cloud-based Customer Identity and Access Management (cIAM) platform.
   github: "LoginRadius"
 
+- id: Emadamerho-Atori Nefe
+  bio: A frontend developer and UI enthusiast who loves learning new things, creating technical content, and sharing his knowledge with others. In his pastime, he reads manga, watches Anime, and writes poems.
+  github: "nefejames"
+
 - id: Puneet Singh
   bio: Very curious about this world and blogging whenever learning something new
   github: "puneetsingh24"
@@ -64,7 +68,7 @@
   bio: Karl is a Software Developer at LoginRadius, the rapidly-expanding social login and sharing provider. He graduated from NAIT with a diploma in Computer Engineering Technologies. He enjoys snowboarding, watching TV series and gaming.
 
 - id: Versha Gupta
-  bio: She is a software enthusiast, an avid contributor, and blogs regularly. She usually works with React, UI/UX, Javascript, Node.js, and DevOps.
+  bio: She is a software enthusiast, an avid contributor, and a regular blog writer. She usually works with React, UI/UX, Javascript, Node.js, and DevOps.
   github: "vershagupta"
   stackoverflow: "1455329"
   linkedin: "versha-gupta-4865b339"
@@ -573,3 +577,28 @@
   github: "belelaritra"
   linkedin: "belelaritra"
   twitter: "belel_aritra"
+
+- id: "Deepak Gupta"
+  bio: "Deepak is the CTO and co-founder of LoginRadius, a rapidly-expanding Customer Identity Management provider. He's dedicated to innovating the LoginRadius platform. He loves foosball and winning poker games!"
+  linkedin: "dpgupta"
+  twitter: "dip_ak"
+
+- id: Babatunde Koiki
+  bio: "He is an experienced software engineer with great passion for building reliable, scalable, and maintainable products. And he loves great documentation. When he is not writing code, he hangs out with friends or watches movies."
+  github: "Babatunde13"
+  linkedin: "babatunde-koiki-2002"
+  twitter: "bkoiki950"
+
+- id: Gaurav Kumar Roy
+  bio: "He is a Full-stack Content Engineer and has a great passion for curating articles, blogs, tutorials, and other web content. He has authored two books and contributed to more than 350+ articles and blogs. Apart from writing, he loves to play foosball, read novels, and dance."
+  github: "GauravRoy6"
+  linkedin: "gauravroy62"
+
+- id: Harikrishna Kundariya
+  bio: "He is a marketer, designer, and developer. He is also an IoT, chatbot, and blockchain savvy. He has co-founded eSparkBiz Technologies, a SaaS app development company. His 8+ experience enables him to help new startups with solutions based on IoT and chatbot."
+  github: "espark-biz"
+
+- id: Siddhant Varma
+  bio: "He is a full-stack JavaScript engineer who loves building pixel perfect UIs and engineering tech products. He loves creating technical content for developers and has worked as a frontend engineer for many startups."
+  github: "FuzzySid"
+  linkedin: "siddhantvarma99"
